@@ -1,4 +1,4 @@
-DiseaseUId,DiseaseName,ICDCode,Version,Comment
+DiseaseUId,DiseaseName,ICDCode,Version,Comments
 1,Asthma,J45.901,9,NULL
 2,Diabetes Mellitus,E11.9,9,NULL
 3,COPD,J44.9,10,NULL

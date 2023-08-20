@@ -1,4 +1,4 @@
-StatisticalMethodsUId,MethodName,Comment
+StatisticalMethodUId,MethodName,Comments
 1,Simple Linear Regression Analysis,NULL
 2,Multivariable conditional logistic regression model,NULL
 3,Generalized Linear Models with Poisson Distribution,NULL
@@ -10,7 +10,7 @@ StatisticalMethodsUId,MethodName,Comment
 9,Poisson Generalised Additive Model (GAM),NULL
 10,Distributed Lag NonLinear Model,NULL
 11,Piecewise Linear Model,NULL
-12,Spearman’s rank order correlation,NULL
+12,Spearmanï¿½s rank order correlation,NULL
 13,Multiple linear regression analysis,NULL
 14,Quasi-poisson regression analysis,NULL
 15,Generalized Linear Mixed Model,NULL

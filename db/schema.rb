@@ -171,6 +171,25 @@ ActiveRecord::Schema[7.0].define(version: 2023_08_12_225145) do
     t.datetime "updated_at", null: false
   end
 
+<<<<<<< HEAD
+  create_table "study_periods", force: :cascade do |t|
+    t.integer "publication_id"
+    t.datetime "start_date"
+    t.datetime "end_date"
+    t.text "comment"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["publication_id"], name: "index_study_periods_on_publication_id"
+  end
+
+  create_table "study_results", force: :cascade do |t|
+    t.integer "publication_id"
+    t.string "outcome"
+    t.text "comment"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["publication_id"], name: "index_study_results_on_publication_id"
+=======
   create_table "study_outcomes", force: :cascade do |t|
     t.string "outcome"
     t.text "comment"
@@ -188,6 +207,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_08_12_225145) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["publication_id"], name: "index_study_periods_on_publication_id"
+>>>>>>> a8ca176 (created Rake task for syncing with data from CSV files)
   end
 
   create_table "subject_types", force: :cascade do |t|
