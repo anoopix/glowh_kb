@@ -38,7 +38,6 @@ module CsvData
         end
 
         def execute
-            puts "test"
             sync_model_tables
             sync_relation_tables
         end
