@@ -1,0 +1,30 @@
+StatisticalMethodsUId,MethodName,Comment
+1,Simple Linear Regression Analysis,NULL
+2,Multivariable conditional logistic regression model,NULL
+3,Generalized Linear Models with Poisson Distribution,NULL
+4,Bayesian Model Averaging,NULL
+5,Standard Multiple Regression,NULL
+6,Generalized Additive Poisson Regression Model,NULL
+7,Multivariable-adjusted autoregressive integrated moving average model (time series analysis),NULL
+8,Poisson log-linear regression model,NULL
+9,Poisson Generalised Additive Model (GAM),NULL
+10,Distributed Lag NonLinear Model,NULL
+11,Piecewise Linear Model,NULL
+12,Spearman’s rank order correlation,NULL
+13,Multiple linear regression analysis,NULL
+14,Quasi-poisson regression analysis,NULL
+15,Generalized Linear Mixed Model,NULL
+16,Poisson Regression,NULL
+17,Poisson generalized estimating equations,NULL
+18,Logistic regression analysis,NULL
+19,Mantel-Haenszel estimator,NULL
+20,Time-stratified case-crossover design,NULL
+21,Generalised Additive Model (GAM),NULL
+22,Case-crossover,NULL
+23,Poisson regression time series method,NULL
+24,Air Pollution and Health: A European Approach (APHEA),NULL
+25,Bi-directional case-crossover,NULL
+26,Conditional Logistic Regression Model,NULL
+27,Autoregressive Poisson Regression,NULL
+28,Regression model,NULL
+29,Two-stage hierarchical model,NULL

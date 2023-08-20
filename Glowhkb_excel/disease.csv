@@ -1,0 +1,6 @@
+DiseaseUId,DiseaseName,ICDCode,Version,Comment
+1,Asthma,J45.901,9,NULL
+2,Diabetes Mellitus,E11.9,9,NULL
+3,COPD,J44.9,10,NULL
+4,Respiratory Symptoms,NULL,NULL,NULL
+5,Chronic Bronchitis,J42,10,NULL

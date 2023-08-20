@@ -1,0 +1,14 @@
+AirPollutantUId,AirPollutant,PollutantsAbbrev,Comments
+1,Sulfur dioxide,SO2,NULL
+2,Carbon monoxide,CO,NULL
+3,Ozone,O3,NULL
+4,Nitrogen dioxide,NO2,NULL
+5,Particulate Matter 10,PM10,NULL
+6,Particulate Matter 2.5,PM25,NULL
+7,Tobacco Smoke,NULL,NULL
+8,Car exhaust fumes,NULL,NULL
+9,Animal Dander,NULL,NULL
+10,Elemental Carbon,EC,NULL
+11,Alternaria conidia,Fungi,NULL
+12,Ultrafine particles,UFP,NULL
+13,Black Smoke,Smoke,NULL

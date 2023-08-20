@@ -1,0 +1,66 @@
+GeographicLocationUId,LocationInPub,City,State,Country,Continent,MaxLat,MinLat,MaxLong,MinLong,Latitude,Longitude
+1,Bronx,New York City,New York,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+2,Detroit,Detroit,Michigan,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+3,Italy,,,Italy,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+4,Athens,Athens,NULL,Greece,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+5,Taiwan,NULL,NULL,Taiwan,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+6,Lodz,NULL,NULL,Poland,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+7,Camp Bronco Junction,Charleston,West Virginia,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+8,Lapland,Lapland,,Finland,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+9,Helsinki,Helsinki,NULL,Finland,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+10,Hong Kong,Hong Kong,NULL,Hong Kong,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+11,Tokyo,Tokyo,Tokyo,Japan,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+12,Cardiff,Cardiff,NULL,United Kingdom,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+13,Melbourne,Australia,Victoria,Australia,Australia,NULL,NULL,NULL,NULL,NULL,NULL
+14,Shanghai,Shanghai,NULL,China,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+15,Kuwait,Kuwait,NULL,Kuwait,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+16,Bangalore,Bangalore,Karnataka,India,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+17,Edmonton,Edmonton,NULL,Canada,North America,NULL,NULL,NULL,NULL,NULL,NULL
+18,London,London,NULL,United Kingdom,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+19,Rome,Rome,NULL,Italy,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+20,Valencia,Valencia,NULL,Spain,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+21,Saint John,Saint John,New Brunswick,Canada,North America,NULL,NULL,NULL,NULL,NULL,NULL
+22,Seoul,Seoul,NULL,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+23,Madrid,Madrid,NULL,Spain,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+24,Saint Louis,Saint Louis,Missouri,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+25,Marseille,Marseille,NULL,France,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+26,Cincinnati,Cincinnati,Ohio,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+27,Cleveland,Cleveland,Ohio,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+28,Columbus,Columbus,Ohio,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+29,Windsor,Ontario,Ontario,Canada,North America,NULL,NULL,NULL,NULL,NULL,NULL
+30,Portland,Portland,Maine,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+31,Manchester,Manchester,New Hampshire,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+32,Sao Jose dos Campos,Sao Jose dos Campos,Sao Paulo,Brazil,South America,NULL,NULL,NULL,NULL,NULL,NULL
+33,Cartagena,Cartagena,NULL,Spain,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+34,Seattle,Seattle,Washington,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+35,Washington DC,Washington DC,Washington DC,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+36,Tacoma,Tacoma,Washington,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+37,Ciudad Juarez,Ciudad Juarez,Chihuahua,Mexico,North America,NULL,NULL,NULL,NULL,NULL,NULL
+38,Sao Paulo,Sao Paulo,NULL,Brazil,South America,NULL,NULL,NULL,NULL,NULL,NULL
+39,Sydney,Sydney,New South Wales,Australia,Australia,NULL,NULL,NULL,NULL,NULL,NULL
+40,Barcelona,Barcelona,NULL,Spain,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+41,Paris,Paris,NULL,France,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+42,Kolkata,Kolkata,West Bengal,India,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+43,Rochester,Rochester,New York,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+44,Taipei,Taipei,NULL,Taiwan,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+45,Kaohsiung,Kaohsiung,NULL,Taiwan,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+46,Strasbourg,Strasbourg,NULL,France,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+47,Brisbane,Brisbane,Queensland,Australia,Australia,NULL,NULL,NULL,NULL,NULL,NULL
+48,Toronto,Toronto,Ontario,Canada,North America,NULL,NULL,NULL,NULL,NULL,NULL
+49,Vancouver,Vancouver,British Columbia,Canada,North America,NULL,NULL,NULL,NULL,NULL,NULL
+50,Amsterdam,Amsterdam,NULL,The Netherlands,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+51,Rotterdam,Rotterdam,NULL,The Netherlands,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+52,New York City,New York City,New York,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+53,Canberra,Canberra,Australian Capital Territory,Australia,Australia,NULL,NULL,NULL,NULL,NULL,NULL
+54,Perth,Perth,Western Australia,Australia,Australia,NULL,NULL,NULL,NULL,NULL,NULL
+55,Auckland,Auckland,North Island,New Zealand,Oceania,NULL,NULL,NULL,NULL,NULL,NULL
+56,Christchurch,Christchurch,South Island,New Zealand,Oceania,NULL,NULL,NULL,NULL,NULL,NULL
+57,Milan,Milan,Lombardy,Italy,Europe,NULL,NULL,NULL,NULL,NULL,NULL
+58,Atlanta,Atlanta,Georgia,United States,North America,NULL,NULL,NULL,NULL,NULL,NULL
+59,Busan,Busan,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+60,Incheon,Incheon,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+61,Daegu,Daegu,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+62,Daejeon,Daejeon,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+63,Gwangju,Gwangju,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+64,Ulsan,Ulsan,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL
+65,Jeju,Jeju,,South Korea,Asia,NULL,NULL,NULL,NULL,NULL,NULL

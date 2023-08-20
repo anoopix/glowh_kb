@@ -1,0 +1,17 @@
+WeatherUId,PrimaryParameter,SecondaryParameter,DerivedParameter,Comments
+1,Temperature,Temperature,NULL,NULL
+2,Temperature,Air Temperature,NULL,NULL
+3,Temperature,Mean Temperature,NULL,NULL
+4,Temperature,Minimum Temperature,NULL,NULL
+5,Temperature,Maximum Temperature,NULL,NULL
+6,Temperature,Dew point Temperature,NULL,NULL
+7,Humidity,Humidity,NULL,NULL
+8,Humidity,Relative Humidity,NULL,NULL
+9,Humidity,Absolute Humidity,NULL,NULL
+10,Wind,Wind Speed,NULL,NULL
+11,Seasons,Seasons,NULL,NULL
+12,Temperature,Diurnal Temperature range (DTR),Diurnal Temperature range (DTR),NULL
+13,Temperature,Mean Monthly Air Temperature,NULL,NULL
+14,Thunderstorm,Thunderstorm,NULL,NULL
+15,Rainfall,Rainfall,NULL,NULL
+16,Seasons,Seasonal Variation,NULL,NULL
